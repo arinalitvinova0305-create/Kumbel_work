@@ -6,7 +6,7 @@ void main() {
 
   for (int i = 0; i < m; i++) {
     for (int j = 0; j < n; j++) {
-      matrix[i][j] = 10 * (i + 1); // I = i + 1
+      matrix[i][j] = 10 * (i + 1); 
     }
   }
 
